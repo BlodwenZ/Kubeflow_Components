@@ -1,0 +1,2 @@
+FROM gcr.io/ml-pipeline/frontend:0.2.0
+MAINTAINER Blodwen ZHANG <50251082@qq.com>
